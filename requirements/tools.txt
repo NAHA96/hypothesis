@@ -33,7 +33,7 @@ flake8-polyfill==1.0.2    # via flake8-docstrings
 flake8==3.5.0
 flaky==3.4.0
 future==0.16.0            # via readme-renderer
-gitdb2==2.0.4             # via gitpython
+gitdb2==2.0.5             # via gitpython
 gitpython==2.1.11         # via bandit
 idna==2.7                 # via requests
 imagesize==1.1.0          # via sphinx
